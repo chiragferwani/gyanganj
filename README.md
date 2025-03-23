@@ -4,6 +4,12 @@ GyanGanj is a **Wikipedia-powered** knowledge exploration app that delivers pers
 
 ---
 
+## 📺 Project Demo
+
+[![Watch the Demo](https://img.youtube.com/vi/HhgtzDDdbNI/maxresdefault.jpg)](https://www.youtube.com/watch?v=HhgtzDDdbNI)
+
+---
+
 ## 🚀 Features
 
 - **Personalized Content** - Articles based on your selected interests.
@@ -72,13 +78,6 @@ Ensure you have the following versions installed:
 
 ## 🎨 Figma Design
 Check out the UI/UX design on Figma: [Figma Link](https://www.figma.com/design/mU9wC1wC8Iau85Q0CB2Ao1/GyanGanj-Mobile-App?m=auto&t=wQlKHIEj0zDYjMsh-1)
-
----
-
-
-## 📺 Project Demo
-
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ---
 
