@@ -78,7 +78,7 @@ Check out the UI/UX design on Figma: [Figma Link](https://www.figma.com/design/m
 
 ## 📺 Project Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the Demo](https://img.youtube.com/vi/HhgtzDDdbNI/maxresdefault.jpg)](https://www.youtube.com/watch?v=HhgtzDDdbNI)
 
 ---
 
