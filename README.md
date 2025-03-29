@@ -23,6 +23,14 @@ GyanGanj is a **Wikipedia-powered** knowledge exploration app that delivers pers
 - **Profile Management** - Customize your profile and manage saved content.
 
 ---
+## 🎨 Figma Design
+
+![GyanGanj Mobile App](https://github.com/user-attachments/assets/ed00a4a3-2cf8-4f12-b6ce-716d7f7c044f)
+
+
+Check out the UI/UX design on Figma: [Figma Link](https://www.figma.com/design/mU9wC1wC8Iau85Q0CB2Ao1/GyanGanj-Mobile-App?m=auto&t=wQlKHIEj0zDYjMsh-1)
+
+---
 
 ## 🔧 Tech Stack
 
@@ -73,15 +81,6 @@ Ensure you have the following versions installed:
    ```sh
    flutter build apk --release
    ```
-
----
-
-## 🎨 Figma Design
-
-![GyanGanj Mobile App](https://github.com/user-attachments/assets/ed00a4a3-2cf8-4f12-b6ce-716d7f7c044f)
-
-
-Check out the UI/UX design on Figma: [Figma Link](https://www.figma.com/design/mU9wC1wC8Iau85Q0CB2Ao1/GyanGanj-Mobile-App?m=auto&t=wQlKHIEj0zDYjMsh-1)
 
 ---
 
