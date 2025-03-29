@@ -72,7 +72,22 @@ class NavBar extends StatelessWidget {
             onTap: () => Navigator.pushReplacement(context, MaterialPageRoute(builder: (context)=> WikipediaNewsScreen())),
           ),
          
-         
+          ListTile(
+            leading: Icon(Ionicons.book, color: Color.fromARGB(255, 0, 0, 0),),
+            title: Text('Books', style: TextStyle(fontFamily: 'boldfont', color: Colors.black),),
+            onTap: () => Navigator.pushReplacement(context, MaterialPageRoute(builder: (context)=> BooksScreen())),
+          ),
+           ListTile(
+            leading: Icon(Ionicons.chatbox_ellipses, color: Color.fromARGB(255, 0, 0, 0),),
+            title: Text('Ping', style: TextStyle(fontFamily: 'boldfont', color: Colors.black),),
+            onTap: () => Navigator.pushReplacement(context, MaterialPageRoute(builder: (context)=> StackExchangeScreen())),
+          ),
+          Divider(),
+          ListTile(
+            leading: Icon(Ionicons.information_circle, color: Color.fromARGB(255, 0, 0, 0),),
+            title: Text('About', style: TextStyle(fontFamily: 'boldfont', color: Colors.black),),
+            onTap: () => Navigator.pushReplacement(context, MaterialPageRoute(builder: (context)=> ProjectInfoScreen())),
+          ),
           Divider(),
           ListTile(
             leading: Icon(Ionicons.exit, color: Color.fromARGB(255, 0, 0, 0),),
